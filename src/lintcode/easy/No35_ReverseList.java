@@ -6,7 +6,7 @@ package lintcode.easy;
  * @author Administrator
  *
  */
-public class ReverseList {
+public class No35_ReverseList {
 
 	/**
      * @param head: The head of linked list.
